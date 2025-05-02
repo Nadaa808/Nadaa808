@@ -1,4 +1,4 @@
-# Hi My, I'm Nadaa808
+# Hi, I'm Nadaa808
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in multiple technologies. I love building innovative solutions and contributing to open-source projects.
